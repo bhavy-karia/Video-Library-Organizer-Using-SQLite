@@ -31,7 +31,7 @@ def delete_videos(video_id):
 
 def main():
     while True:
-        print("\nYoutube Manager with Database")
+        print("\nVideo Library Organizer Using SQLite")
         print("1. List Videos")
         print("2. Add Videos")
         print("3. Update Videos")
